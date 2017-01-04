@@ -4,5 +4,4 @@
 * Apple
 * Samsung
 * Sony
-Testtesttrrett
 테스트
